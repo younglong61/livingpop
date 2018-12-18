@@ -1,0 +1,5 @@
+<script>
+function inlineScript() {
+    alert('This is inline Script!!!');
+}
+</script>
